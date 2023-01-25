@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WooComService", "WooComService\WooComService.csproj", "{6BA242CB-E201-43C0-A777-CEB3DC473A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensions", "Extensions\Extensions.csproj", "{448B5885-B9C9-4FB1-8BDB-2F0794A6C5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WooComIntegration", "WooComIntegration\WooComIntegration.csproj", "{B100B986-B08D-4343-9325-72BADE0E8D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WooComIntegrationConsole", "WooComIntegrationConsole\WooComIntegrationConsole.csproj", "{A628FB00-8812-4B56-B0D8-B0C00B9FE57E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WooCommerce.NET", "WooCommerce.NET\WooCommerce.NET.csproj", "{19283F49-1B87-4E63-8444-44250DEFC078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BA242CB-E201-43C0-A777-CEB3DC473A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA242CB-E201-43C0-A777-CEB3DC473A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA242CB-E201-43C0-A777-CEB3DC473A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA242CB-E201-43C0-A777-CEB3DC473A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448B5885-B9C9-4FB1-8BDB-2F0794A6C5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448B5885-B9C9-4FB1-8BDB-2F0794A6C5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448B5885-B9C9-4FB1-8BDB-2F0794A6C5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448B5885-B9C9-4FB1-8BDB-2F0794A6C5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B100B986-B08D-4343-9325-72BADE0E8D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B100B986-B08D-4343-9325-72BADE0E8D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B100B986-B08D-4343-9325-72BADE0E8D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B100B986-B08D-4343-9325-72BADE0E8D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A628FB00-8812-4B56-B0D8-B0C00B9FE57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A628FB00-8812-4B56-B0D8-B0C00B9FE57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A628FB00-8812-4B56-B0D8-B0C00B9FE57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A628FB00-8812-4B56-B0D8-B0C00B9FE57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19283F49-1B87-4E63-8444-44250DEFC078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19283F49-1B87-4E63-8444-44250DEFC078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19283F49-1B87-4E63-8444-44250DEFC078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19283F49-1B87-4E63-8444-44250DEFC078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {224AE59C-7F65-43C8-B6D7-83C1282A9285}
+	EndGlobalSection
+EndGlobal
